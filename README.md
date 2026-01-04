@@ -16,5 +16,3 @@
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/realm.png" alt="Realm" title="Realm"/></code>
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/macos.png" alt="macOS" title="macOS"/></code>
 </div>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Oxpas=anuraghazra&show_icons=true&theme=radical)
