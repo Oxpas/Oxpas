@@ -1,6 +1,3 @@
-<div align="center">
-<h1>⚒️ Languages and tools 🛠️</h1>
-</div>
 
 <div align="center">
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/http.png" alt="HTTP" title="HTTP"/></code>
